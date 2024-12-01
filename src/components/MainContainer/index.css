@@ -1,0 +1,26 @@
+.home-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.below-container {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.middle-container {
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.middle-header-container {
+    margin-right: 10px;
+}
+
+.below-right-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    padding: 10px;
+}
